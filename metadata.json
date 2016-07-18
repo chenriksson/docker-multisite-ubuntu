@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Deploy Docker extension on Ubuntu VM behind NLB with multiple IPs.",
+  "description": "Deploy Docker extension on Ubuntu VM behind NLB with multiple IPs.",
+  "summary": "Deploy Docker extension on Ubuntu VM behind NLB with multiple IPs.",
+  "githubUsername": "chenriksson",
+  "dateUpdated": "2016-07-15"
+}
